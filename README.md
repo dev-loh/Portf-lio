@@ -1,4 +1,5 @@
 🌐 Portfólio Pessoal | Lorena Muller
+
 Este projeto é um portfólio pessoal desenvolvido em HTML5 e CSS3, com foco em apresentar minhas principais habilidades, projetos e informações de contato de forma clara e responsiva.
 
 🎯 Objetivo
